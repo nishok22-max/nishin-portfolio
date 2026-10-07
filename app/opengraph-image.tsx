@@ -4,7 +4,7 @@ import { site } from "@/content/site";
 export const alt = site.meta.title;
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
-export const runtime = "edge";
+export const dynamic = "force-static";
 
 async function loadInter(text: string) {
   // Fetch only the glyphs we need from Google Fonts (Inter 800).

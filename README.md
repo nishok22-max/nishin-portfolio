@@ -18,11 +18,11 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![GSAP](https://img.shields.io/badge/GSAP%203.13-88CE02?style=for-the-badge&logo=greensock&logoColor=black)](https://gsap.com/)
 [![WebGL](https://img.shields.io/badge/Raw_WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)](https://www.khronos.org/webgl/)
-[![Lenis](https://img.shields.io/badge/Lenis-Smooth_Scroll-black?style=for-the-badge)](https://lenis.darkroom.engineering/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live_Demo-22c55e?style=for-the-badge&logo=githubpages&logoColor=white)](https://nishok22-max.github.io/nishin-portfolio/)
 
 <br />
 
-[Explore Selected Work](#-featured-projects) • [Tech Stack](#-technology-matrix) • [Architecture](#-project-architecture) • [Quick Start](#-quick-start) • [Connect](#-connect)
+[🌐 **Live Demo (GitHub Pages)**](https://nishok22-max.github.io/nishin-portfolio/) • [Explore Selected Work](#-featured-projects) • [Tech Stack](#-technology-matrix) • [Architecture](#-project-architecture) • [Quick Start](#-quick-start) • [Connect](#-connect)
 
 </div>
 
@@ -234,7 +234,7 @@ npm run start
 
 [![GitHub](https://img.shields.io/badge/GitHub-nishok22--max-181717?style=flat-square&logo=github)](https://github.com/nishok22-max)
 [![Email](https://img.shields.io/badge/Email-rknishok%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rknishok@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Website-nishok.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://nishok.vercel.app)
+[![GitHub Pages](https://img.shields.io/badge/Live_Site-GitHub_Pages-22c55e?style=flat-square&logo=githubpages&logoColor=white)](https://nishok22-max.github.io/nishin-portfolio/)
 
 </div>
 

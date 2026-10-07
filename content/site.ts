@@ -19,6 +19,8 @@ export type Project = {
 
 export type StackGroupKey = "languages" | "aiml" | "dev" | "data";
 
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+
 export const site = {
   name: "Nishok",
   handle: "nishhz",
@@ -28,10 +30,10 @@ export const site = {
   timezone: "Asia/Kolkata",
   timezoneLabel: "IST",
   email: "rknishok@gmail.com",
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://nishok.vercel.app",
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://nishok22-max.github.io/nishin-portfolio",
   links: {
     github: "https://github.com/nishok22-max",
-    resume: "/resume.pdf",
+    resume: `${basePath}/resume.pdf`,
   },
   available: true,
   year: 2026,
@@ -88,7 +90,7 @@ export const site = {
       "I also care about how technology is presented. A technically strong system should not feel complicated to use.",
     ],
     /** Set to an image path in /public (e.g. "/portrait.jpg") once available. */
-    portrait: "/portrait.jpg" as string | null,
+    portrait: `${basePath}/portrait.jpg` as string | null,
     portraitAlt: "Portrait of Nishok",
   },
 
